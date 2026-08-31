@@ -111,19 +111,11 @@ portfolio: kamalesh.me
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh-Github&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalesh-Github&theme=radical&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh-Github&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" width="49%"/>
-</div>
-
-<br/>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh-43&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalesh-43&theme=radical&hide_border=true" width="49%"/> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalesh-43&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" width="49%"/> </div> <br/>
 
 📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalesh-43-github&theme=react-dark&hide_border=true&area=true" width="90%"/> </div> <br/> <div align="center">
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalesh-43&theme=react-dark&hide_border=true&area=true" width="90%"/> </div> <br/> <div align="center">
+  
 💬 Let's Connect & Build Something Great
 
 <a href="https://www.linkedin.com/in/kamaleshk790/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://kamalesh.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="mailto:kamaleshkumarsathya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
