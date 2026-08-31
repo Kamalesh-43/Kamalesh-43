@@ -122,22 +122,11 @@ portfolio: kamalesh.me
 
 <br/>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamalesh-43-github&theme=react-dark" width="90%"/>
-</div>
+📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalesh-43-github&theme=react-dark&hide_border=true&area=true" width="90%"/> </div> <br/> <div align="center">
+💬 Let's Connect & Build Something Great
 
-<br/>
+<a href="https://www.linkedin.com/in/kamaleshk790/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://kamalesh.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> <a href="mailto:kamaleshkumarsathya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div align="center">
-
-### 💬 Let's Connect & Build Something Great
-
-<a href="https://www.linkedin.com/in/kamaleshk790/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/></a>
-<a href="https://kamalesh.me"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" height="35" width="35"/></a>
-<a href="mailto:kamaleshkumarsathya@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" width="100%"/> </div>
 -
