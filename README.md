@@ -122,18 +122,9 @@ portfolio: kamalesh.me
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamalesh-Github&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
-</div>
-
-<br/>
-
 ## 📈 Activity Graph
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graphs/demo.svg" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalesh-43-Github&theme=react-dark" width="90%"/>
 </div>
 
 <br/>
@@ -142,10 +133,11 @@ portfolio: kamalesh.me
 
 ### 💬 Let's Connect & Build Something Great
 
-<a href="https://linkedin.com/in/KamalashK"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/></a>
+<a href="https://www.linkedin.com/in/kamaleshk790/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/></a>
 <a href="https://kamalesh.me"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" height="35" width="35"/></a>
 <a href="mailto:kamaleshkumarsathya@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="35" width="45"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" width="100%"/>
 
 </div>
+-
