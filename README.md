@@ -124,7 +124,7 @@ portfolio: kamalesh.me
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalesh-43-Github&theme=react-dark" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalesh-43&theme=react-dark" width="90%"/>
 </div>
 
 <br/>
